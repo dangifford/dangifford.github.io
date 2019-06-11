@@ -1,3 +1,8 @@
-theme: jekyll-theme-modernist
-title: Welcome to my GitHub page!
-description: Dan's GitHub page.
+title: DanGifford.GitHub.io
+description: Dan's GitHub Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
