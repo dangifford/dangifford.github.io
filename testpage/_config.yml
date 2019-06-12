@@ -1,0 +1,8 @@
+title: DanGifford.GitHub.io
+description: Dan's GitHub Test Page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
