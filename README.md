@@ -1,3 +1,3 @@
 # dangifford.github.io
 
-This is my test website with GitHub
+This is my GitHub Pages website.
